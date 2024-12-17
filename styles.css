@@ -8,11 +8,12 @@ header {
   text-align: center;
   padding: 20px;
 }
+
 header p {
-    font-size: 25px;
-    margin-top: 20px;
-    color: #ffff;
-    text-align: left;
+  font-size: 22px;
+  margin-top: 20px;
+  color: #ffff;
+  text-align: left;
 }
 
 nav ul {
@@ -28,4 +29,8 @@ nav a {
   font-size: 22px;
   padding: 5px 10px;
   border-radius: 5px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
 }
